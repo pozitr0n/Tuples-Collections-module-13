@@ -1,10 +1,10 @@
 
 // Raman Kozar - module 11
 
+// Libraries
 import UIKit
 import PlaygroundSupport
 import Foundation
-
 
 // Task 1.
 var firstPerson: (firstName: String,
