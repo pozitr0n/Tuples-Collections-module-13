@@ -84,7 +84,6 @@ for ___index in stride(from: arrayOfDaysAtMonthsUsingTuples.count - 1, through: 
     
 }
 
-
 // Count the number of days until the end of the year
 func countDaysUntilEndOfYear(day: Int, monthIndex: Int) {
 
